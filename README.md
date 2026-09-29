@@ -1,0 +1,2 @@
+# Arquitetura-de-dispositivo
+Gu
