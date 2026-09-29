@@ -1,2 +1,2 @@
 # Arquitetura-de-dispositivo
-Gu
+Exercicios
